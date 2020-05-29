@@ -3,3 +3,5 @@ Napisz aplikację, która będzie udostępniała prosty interfejs API. Każdy kt
 To jak wysłać maila poprzez mechanizm dostarczony przez Spring jest Twoją pracą domową, która wymaga od Ciebie researchu.
 
 Pamiętaj, że wysyłka maila ma odbywać się z wykorzystaniem aspektu! Zastosuj odpowiednia poradę po dodaniu nowego elementu do listy ?
+
+Dodatkowo: cykliczna wysyłka całej listy przy pomocy crona

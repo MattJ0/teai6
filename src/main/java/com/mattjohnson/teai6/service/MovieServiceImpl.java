@@ -13,6 +13,9 @@ public class MovieServiceImpl implements MovieService {
 
     public MovieServiceImpl() {
         this.movieList = new ArrayList<>();
+        movieList.add(new Movie("Mad Max", 2000, "Fox"));
+        movieList.add(new Movie("Mad Max 2", 2002, "Fox"));
+        movieList.add(new Movie("Mad Max 3", 2004, "Fox"));
     }
 
     @Override
